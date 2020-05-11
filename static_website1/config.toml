@@ -1,5 +1,0 @@
-baseURL = "https://kjchiqui.github.io/static_website1/"
-languageCode = "en-us"
-title = "MSIG XXI - My New Hugo Site"
-theme = "ananke"
-publishDir = "docs"
